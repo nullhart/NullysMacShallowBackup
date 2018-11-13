@@ -1,0 +1,28 @@
+{
+    "backup_path": "/Users/nullhart/.shallowbackup",
+    "dotfiles": [
+        ".bashrc",
+        ".bash_profile",
+        ".gitconfig",
+        ".profile",
+        ".pypirc",
+        ".shallow-backup",
+        ".vimrc",
+        ".zshrc"
+    ],
+    "dotfolders": [
+        ".ssh",
+        ".vim"
+    ],
+    "default-gitignore": [
+        "dotfiles/.ssh",
+        "packages/",
+        "dotfiles/.pypirc"
+    ],
+    "config_mapping": {
+        "/Users/nullhart/Library/Application Support/Sublime Text 2": "sublime2",
+        "/Users/nullhart/Library/Application Support/Sublime Text 3": "sublime3",
+        "/Users/nullhart/.atom": "atom",
+        "/Users/nullhart/Library/Preferences/com.apple.Terminal.plist": "plist/com.apple.Terminal.plist"
+    }
+}
